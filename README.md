@@ -1,3 +1,8 @@
+---
+date: 2025-02-24
+description: Explore Flowershow's features and configuration options in this demo site!
+---
+
 # Welcome to Flowershow Demo! 
 
 This site is published from https://github.com/flowershow/demo using [Flowershow](https://flowershow.app) - an elegant solution for publishing your Obsidian vaults and Markdown content directly from GitHub repositories.
