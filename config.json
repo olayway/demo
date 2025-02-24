@@ -20,5 +20,6 @@
         "label": "twitter"
       }
     ]
-  }
+  },
+  "showSidebar": true
 }
