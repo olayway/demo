@@ -23,7 +23,7 @@ This demo showcases various Flowershow features and configuration options:
   - Navigation setup
   - Custom domain
 
-## 📚 Markdown Syntax Support
+## 📚 Markdown Syntax
 
 ### Text Formatting
 
