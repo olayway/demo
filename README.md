@@ -1,6 +1,7 @@
 ---
 date: 2025-02-24
 description: Explore Flowershow's features and configuration options in this demo site!
+image: hero.png
 ---
 
 # Welcome to Flowershow Demo! 
