@@ -158,6 +158,12 @@ ___
 
 ## ⚙️ Customization Options
 
+For detailed information about all customization options, visit [Flowershow Documentation](https://flowershow.app/docs).
+
+### Featured image
+
+The image at the top of this page is set using the `image` frontmatter property. This image is also used as the social preview image when sharing the page on social media platforms.
+
 ### Comments
 
 The comments section you can see at the bottom of this page has been enabled through the Flowershow Cloud dashboard. This feature allows your readers to engage with your content and provide feedback directly on your pages.
