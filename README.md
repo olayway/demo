@@ -1,10 +1,14 @@
 ---
-date: 2025-02-24
+title: Welcome to Flowershow Demo!
 description: Explore Flowershow's features and configuration options in this demo site!
 image: hero.png
+showHero: true
+cta:
+  - label: Explore syntax
+    href: "#-markdown-syntax"
+  - label: See demo blog
+    href: "/blog"
 ---
-
-# Welcome to Flowershow Demo! 
 
 This site is published from https://github.com/flowershow/demo using [Flowershow](https://flowershow.app) - an elegant solution for publishing your Obsidian vaults and Markdown content directly from GitHub repositories.
 
@@ -160,9 +164,9 @@ ___
 
 For detailed information about all customization options, visit [Flowershow Documentation](https://flowershow.app/docs).
 
-### Featured image
+### Hero
 
-The image at the top of this page is set using the `image` frontmatter property. This image is also used as the social preview image when sharing the page on social media platforms.
+The hero component at the top of this page is set using the `hero` frontmatter property. You can set it's title, description, image and two action buttons.
 
 ### Comments
 
