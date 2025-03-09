@@ -120,12 +120,7 @@ And use Obsidian-style image embedding: (`![[lotus.png]]`) ![[lotus.png]]
 
 ### Math Equations
 
-Lift($$L$$) can be determined by Lift Coefficient ($$C_L$$) like the following
-equation.
-
-$$
-L = \frac{1}{2} \rho v^2 S C_L
-$$
+TBD
 
 ### Diagrams
 
