@@ -11,4 +11,4 @@ description: This is a sample blog index page. It demonstrates how you can add a
 <Index dir="/blog"/>
 
 >[!info]
->Blog posts list above has been generated using [`Index` component](https://flowershow.app/docs/index-component)
+>Blog posts list above has been generated using [`Index` component](https://flowershow.app/blog/flowershow-cloud-index-component)
