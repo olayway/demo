@@ -8,17 +8,7 @@ description: This is a sample blog index page. It demonstrates how you can add a
 
 ## Blog Posts
 
-### Post 1: [[Example Blog Post]]
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
+>[!tip]
+>Blog posts list below has been generated using [`Index` component](https://flowershow.app/docs/index-component)
 
----
-
-### Post 2: [[Consectetur Adipiscing]]
-*Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
-
----
-
-### Post 3: [[Sed Do Eiusmod]]
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
-
----
+<Index dir="/blog"/>
