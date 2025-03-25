@@ -8,7 +8,7 @@ description: This is a sample blog index page. It demonstrates how you can add a
 
 ## Blog Posts
 
-<Index dir="/blog"/>
+<List dir="/blog"/>
 
 >[!info]
->Blog posts list above has been generated using [`Index` component](https://flowershow.app/blog/flowershow-cloud-index-component)
+>Blog posts list above has been generated using [`List` component](https://flowershow.app/blog/flowershow-cloud-list-component)
