@@ -1,6 +1,6 @@
 ---
-title: Example Blog Post
-description: This is a simple example blog post to demonstrate wiki-links.
+title: Lorem ipsum
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 image: blog.png
 date: 2025-01-01
 authors: [John Doe, Jane Doe]
