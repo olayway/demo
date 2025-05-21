@@ -1,5 +1,4 @@
 ---
-date: 2024-12-28
 description: Proin et orci a urna vestibulum porta. Aliquam diam lacus, dapibus ut tempus sed, venenatis vitae dui. Phasellus consequat nulla a tempor eleifend.
 authors: [Jane Doe]
 image: blog.png
