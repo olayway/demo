@@ -6,4 +6,4 @@ description: This is a sample blog index page. It demonstrates how you can add a
 <List dir="/blog" fields={["title", "description", "image", "date", "authors"]}/>
 
 >[!info]
->Blog posts list above has been generated using [`List` component](https://flowershow.app/blog/flowershow-cloud-list-component)
+>Blog posts list above has been generated using [`List` component](https://flowershow.app/docs/list-component)
