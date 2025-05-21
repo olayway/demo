@@ -1,9 +1,8 @@
 ---
-date: 2023-11-08
 description: Etiam nec dui a lorem molestie efficitur et sit amet libero. Suspendisse sollicitudin justo pretium lobortis sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 authors: [John Doe]
 image: blog.png
-date: 2024-12-18
+date: 2024-18-12
 ---
 
 # Sed Do Eiusmod
