@@ -2,7 +2,6 @@
 title: Lorem ipsum
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 authors: [John Doe, Jane Doe]
-image: blog.png
 date: 2025-01-01
 ---
 
