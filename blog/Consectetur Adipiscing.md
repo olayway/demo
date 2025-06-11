@@ -1,6 +1,8 @@
 ---
 description: Proin et orci a urna vestibulum porta. Aliquam diam lacus, dapibus ut tempus sed, venenatis vitae dui. Phasellus consequat nulla a tempor eleifend.
-authors: [Jane Doe]
+authors:
+  - John Doe
+  - Jane Doe
 image: blog.png
 date: 2025-03-21
 ---
