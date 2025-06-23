@@ -2,6 +2,7 @@
 title: Welcome to Flowershow Demo!
 description: Explore Flowershow's features and configuration options in this demo site!
 showHero: true
+image: hero.png
 cta:
   - label: Explore syntax
     href: "#-markdown-syntax"
@@ -26,8 +27,6 @@ This demo showcases various Flowershow features and configuration options:
   - Comments
   - Navigation setup
   - Custom domain
- 
-image: hero.png
 
 ## 📚 Markdown Syntax
 
