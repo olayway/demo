@@ -28,6 +28,5 @@
     ]
   },
   "showSidebar": true,
-  "showEditLink": true,
-  "theme": "glide"
+  "showEditLink": true
 }
